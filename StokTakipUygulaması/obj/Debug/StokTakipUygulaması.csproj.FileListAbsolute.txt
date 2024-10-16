@@ -1,0 +1,16 @@
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.csproj.AssemblyReference.cache
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.GirisSayfasi.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Form1.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Musterislemleri.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Personelislemleri.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.ProjeAnaSayfa.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Tedarikcislemleri.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Urunislemleri.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Properties.Resources.resources
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.csproj.GenerateResource.cache
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.csproj.CoreCompileInputs.cache
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\bin\Debug\StokTakipUygulaması.exe.config
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\bin\Debug\StokTakipUygulaması.exe
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\bin\Debug\StokTakipUygulaması.pdb
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.exe
+F:\12.Sınıf-Proje-Nesne-Tabanlı(Stok-Takip)\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.pdb
